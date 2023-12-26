@@ -1,1 +1,1 @@
-# praktikum1_laravel
+# praktikum_laravel_CRUD
